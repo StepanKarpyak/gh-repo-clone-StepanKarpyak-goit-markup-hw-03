@@ -155,10 +155,10 @@ body {
     display:inline-block;
 }
 .nav-item + .nav-item{
-    /*margin-left: 50px;*/
+    margin-left: 50px;
 }
 .nav-item:not(:first-child){
-    margin-left: 50px;
+    /*margin-left: 50px;*/
 }
 
 .menu-link{  
